@@ -6,7 +6,7 @@
 
 Software Engineering student transitioning into web development.
 
-## 🚀 About Me
+##👨‍💻About Me
 
 I am currently pursuing a Bachelor's degree in Software Engineering and transitioning my career into web development.
 
@@ -14,7 +14,7 @@ I have professional experience in different areas, including retail (AutoZone) a
 
 Today, I focus my studies on building modern and functional web applications.
 
-## 🛠️ Technologies
+##⚙️Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
@@ -23,13 +23,13 @@ Today, I focus my studies on building modern and functional web applications.
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 
-## 🎯 Goals
+## 📌 Objectives
 
 - Transition into a web development role  
 - Improve front-end and fullstack skills  
 - Build real-world applications  
 
-## 📈 Currently Learning
+## 🧠 Learning
 
 - Advanced Angular
 - Backend with Node.js
