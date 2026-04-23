@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="imgs/banner.png" width="100%" />
+</p>
+
 # Gustavo
 
 Software Engineering student transitioning into web development.
